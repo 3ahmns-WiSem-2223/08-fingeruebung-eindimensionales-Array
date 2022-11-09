@@ -1,7 +1,4 @@
-# 08-fingeruebung-eindimensionales-Array
-Definition 1 Dim Array
-
-Eindimensionales Array:
+#Eindimensionales Array
 
 Ein Eindimensionales Objekt ist eine Liste an Werten. Alle Werte müssen den selben Datentyp haben. Der 1. Wert in der Liste hat den Index 0. Der letzte Wert in der liste hat den Index n - 1. N ist die anzahl der Werte (die groesse) des Arrays.
 
