@@ -32,6 +32,19 @@ public class Array : MonoBehaviour
         Debug.Log(array4[array4.Length - 1]);
         Debug.Log(arrayColoredImagesRed[arrayColoredImagesRed.Length - 1]);
 
+
+        for (int i = 0; i < array3.Length; i++)
+        {
+            Debug.Log(array3[i]);
+        }
+
+        AlleWerte();
+
+    }
+
+    void AlleWerte()
+    {
+        Debug.Log(array2[0] + " " + array2[1] + " " + array2[2] + " " + array2[3]);
     }
 
   
