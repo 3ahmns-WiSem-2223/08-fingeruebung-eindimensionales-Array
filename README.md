@@ -4,3 +4,7 @@ Ein Eindimensionales Objekt ist eine Liste an Werten. Alle Werte müssen den sel
 
 
 ![Unbenannt](https://user-images.githubusercontent.com/114598146/200887144-0efbecbc-4ad4-46ee-a31d-001bb8213e64.PNG)
+
++ Unity Version: 2020.3.18.f1
++ Visualstudio: 2019
++ OS: Windows 10
